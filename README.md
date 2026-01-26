@@ -136,7 +136,7 @@ Customer (1) ──────< Employment_Info (M)
 
 ##  SQL Queries
 
-![SQL Queries](docs/images/sql_queries.png)
+![SQL Queries](docs/images/3_sql_queries.png)
 
 ### Query 1: Above-Average Sales Analysis
 **Purpose:** Count German, American, and Japanese cars sold above their category average in 2016.

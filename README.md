@@ -50,7 +50,7 @@ This project demonstrates end-to-end database design and implementation for a ca
 
 ##  Database Schema
 
-![Database Architecture](docs/images/database_architecture.png)
+![Database Architecture](docs/images/2_database_architecture.png)
 
 ### Tables
 

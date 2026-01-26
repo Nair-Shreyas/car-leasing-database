@@ -314,7 +314,7 @@ car-leasing-database/
 **Prasanna Syam Shreyas Nair**
 -  Email: shreyasnar1998@gmail.com
 -  Contact No.: +353 892064414
--  LinkedIn: [http://linkedin.com/in/psshreyasnair](url)
+- LinkedIn: [linkedin.com/in/psshreyasnair](http://linkedin.com/in/psshreyasnair)
 -  Location: Dublin, Ireland
 -  Education: MSc Business Analytics
 

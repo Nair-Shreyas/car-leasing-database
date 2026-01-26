@@ -2,7 +2,7 @@
 
 A complete database solution for car leasing operations, featuring normalized schema design, entity-relationship modeling, and production-ready SQL queries for business intelligence.
 
-![Project Overview](docs/images/project_overview.png)
+![Project Overview](docs/images/1_project_overview.png)
 
 ##  Table of Contents
 

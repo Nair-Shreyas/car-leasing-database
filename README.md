@@ -1,10 +1,10 @@
-# 🚗 Car Leasing Database System
+#  Car Leasing Database System
 
 A complete database solution for car leasing operations, featuring normalized schema design, entity-relationship modeling, and production-ready SQL queries for business intelligence.
 
 ![Project Overview](docs/images/project_overview.png)
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -18,7 +18,7 @@ A complete database solution for car leasing operations, featuring normalized sc
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
 
-## 🎯 Overview
+##  Overview
 
 This project demonstrates end-to-end database design and implementation for a car leasing business. The system manages customers, employment information, vehicles, lease contracts, and monthly payments while maintaining data integrity through normalized design (3NF).
 
@@ -28,27 +28,27 @@ This project demonstrates end-to-end database design and implementation for a ca
 - Enable real-time reporting and analytics
 - Maintain data integrity and consistency
 
-## ✨ Features
+##  Features
 
 ### Database Design
-- ✅ **5-table normalized schema (3NF)** - Eliminates data redundancy
-- ✅ **Entity-Relationship Diagram (ERD)** - Clear visual representation
-- ✅ **Primary/Foreign key constraints** - Ensures referential integrity
-- ✅ **Intelligent relationships** - Customer→Leases→Payments flow
+-  **5-table normalized schema (3NF)** - Eliminates data redundancy
+-  **Entity-Relationship Diagram (ERD)** - Clear visual representation
+-  **Primary/Foreign key constraints** - Ensures referential integrity
+-  **Intelligent relationships** - Customer→Leases→Payments flow
 
 ### SQL Capabilities
-- ✅ **4 production-ready queries** - Business intelligence insights
-- ✅ **Common Table Expressions (CTEs)** - Complex data transformations
-- ✅ **Multi-table JOINs** - Data aggregation across entities
-- ✅ **Correlated subqueries** - Advanced filtering logic
+-  **4 production-ready queries** - Business intelligence insights
+-  **Common Table Expressions (CTEs)** - Complex data transformations
+-  **Multi-table JOINs** - Data aggregation across entities
+-  **Correlated subqueries** - Advanced filtering logic
 
 ### Business Intelligence
-- ✅ **Sales analysis** - Above-average performance tracking
-- ✅ **Regional insights** - Top performer identification
-- ✅ **Market segmentation** - Premium vs regular categorization
-- ✅ **Revenue forecasting** - KPI monitoring capabilities
+-  **Sales analysis** - Above-average performance tracking
+-  **Regional insights** - Top performer identification
+-  **Market segmentation** - Premium vs regular categorization
+-  **Revenue forecasting** - KPI monitoring capabilities
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ![Database Architecture](docs/images/database_architecture.png)
 
@@ -134,7 +134,7 @@ Customer (1) ──────< Employment_Info (M)
                     └────── Vehicle (1)
 ```
 
-## 📊 SQL Queries
+##  SQL Queries
 
 ![SQL Queries](docs/images/sql_queries.png)
 
@@ -178,7 +178,7 @@ Customer (1) ──────< Employment_Info (M)
 
 **Business Value:** Market composition analysis.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Database:** MySQL 8.0+
 - **SQL:** Advanced queries (CTEs, JOINs, Subqueries)
@@ -186,7 +186,7 @@ Customer (1) ──────< Employment_Info (M)
 - **Tools:** MySQL Workbench, ERD Designer
 - **Documentation:** Markdown, Diagrams
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - MySQL 8.0 or higher
@@ -215,7 +215,7 @@ mysql -u root -p car_leasing < sql/sample_data.sql
 mysql -u root -p car_leasing < sql/queries.sql
 ```
 
-## 🚀 Usage
+##  Usage
 
 ### Running Individual Queries
 
@@ -244,7 +244,7 @@ Each query returns business insights:
 - **Query 3:** Sellers exceeding regional averages
 - **Query 4:** Premium vs regular count summary
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 car-leasing-database/
@@ -276,7 +276,7 @@ car-leasing-database/
     └── query_tests.sql                # Query validation tests
 ```
 
-## 💼 Business Value
+##  Business Value
 
 ### Operational Benefits
 - **Real-time payment tracking** - Instant overdue alerts
@@ -296,7 +296,7 @@ car-leasing-database/
 - Premium market analysis
 - Payment history tracking
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add stored procedures for common operations
 - [ ] Implement triggers for automated updates
@@ -309,20 +309,20 @@ car-leasing-database/
 - [ ] Implement data archival strategy
 - [ ] Create migration to NoSQL for IoT data
 
-## 👤 Author
+##  Author
 
 **Prasanna Syam Shreyas Nair**
-- 📍 Location: Dublin, Ireland
-- 💼 MSc Business Analytics
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Portfolio URL]
+-  Email: shreyasnar1998@gmail.com
+-  Contact No.: +353 892064414
+-  LinkedIn: linkedin.com/in/psshreyasnair
+-  Location: Dublin, Ireland
+-  Education: MSc Business Analytics
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Database design principles from industry best practices
 - SQL optimization techniques from MySQL documentation
@@ -330,6 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **If you find this project useful, please consider giving it a star!**
+ **If you find this project useful, please consider giving it a star!**
 
-📫 **Open to opportunities in Data Analytics, Business Intelligence, and Data Engineering roles.**
+ **Open to opportunities in Data Analytics, Business Intelligence, and Data Engineering roles.**

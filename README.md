@@ -4,6 +4,12 @@ A complete database solution for car leasing operations, featuring normalized sc
 
 ![Project Overview](docs/images/1_project_overview.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-MySQL_8.0%2B-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Database: MySQL 8.0+"/>
+  <img src="https://img.shields.io/badge/Schema-3NF_%C2%B7_5_tables-6E6E6E?style=flat-square" alt="Schema: 3NF · 5 tables"/>
+  <img src="https://img.shields.io/badge/Queries-4_analytical_SQL-c9440c?style=flat-square" alt="Queries: 4 analytical SQL"/>
+</p>
+
 ##  Table of Contents
 
 - [Overview](#overview)
